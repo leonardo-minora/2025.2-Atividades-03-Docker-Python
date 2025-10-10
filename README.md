@@ -15,11 +15,11 @@ Criar uma imagem Docker baseada em Fedora, instalar Python, e executar programas
 
 ### Parte 1: Preparação do Repositório
 
-- [ ] **1.1** Fazer fork deste repositório para sua conta do GitHub
+- [X] **1.1** Fazer fork deste repositório para sua conta do GitHub
   - Acesse: https://github.com/sistemas-operacionais/2025.2-Atividades-03-Docker-Python
   - Clique no botão "Fork" no canto superior direito
   
-- [ ] **1.2** Clonar o repositório forkado para sua máquina local
+- [X] **1.2** Clonar o repositório forkado para sua máquina local
   ```bash
   git clone https://github.com/SEU_USUARIO/2025.2-Atividades-03-Docker-Python.git
   cd 2025.2-Atividades-03-Docker-Python
@@ -27,7 +27,7 @@ Criar uma imagem Docker baseada em Fedora, instalar Python, e executar programas
 
 ### Parte 2: Criar os Arquivos Python
 
-- [ ] **2.1** Criar o arquivo `alomundo.py` com o seguinte conteúdo:
+- [X] **2.1** Criar o arquivo `alomundo.py` com o seguinte conteúdo:
   ```python
   print("Alô, Mundo!")
   print("Bem-vindo ao container Docker com Python!")
