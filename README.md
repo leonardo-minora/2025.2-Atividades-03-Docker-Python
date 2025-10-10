@@ -56,8 +56,8 @@ Criar uma imagem Docker baseada em Fedora, instalar Python, e executar programas
   print(f"10 - 5 = {subtrair(10, 5)}")
   print(f"10 * 5 = {multiplicar(10, 5)}")
   print(f"10 / 5 = {dividir(10, 5)}")
-  ```
 
+  ```
 
 
 ### Parte 3: Criar o Dockerfile
