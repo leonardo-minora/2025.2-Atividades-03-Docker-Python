@@ -34,7 +34,7 @@ Criar uma imagem Docker baseada em Fedora, instalar Python, e executar programas
   print("Sistemas Operacionais - 2025.2")
   ```
 
-- [ ] **2.2** Criar o arquivo `calculadora.py` com o seguinte conteúdo:
+- [X] **2.2** Criar o arquivo `calculadora.py` com o seguinte conteúdo:
   ```python
   def somar(a, b):
       return a + b
@@ -62,9 +62,9 @@ Criar uma imagem Docker baseada em Fedora, instalar Python, e executar programas
 
 ### Parte 3: Criar o Dockerfile
 
-- [ ] **3.1** Criar o arquivo `Dockerfile` (sem extensão) na raiz do projeto
+- [X] **3.1** Criar o arquivo `Dockerfile` (sem extensão) na raiz do projeto
 
-- [ ] **3.2** Adicionar a imagem base do Fedora:
+- [X] **3.2** Adicionar a imagem base do Fedora:
   ```dockerfile
   FROM fedora:latest
   ```
