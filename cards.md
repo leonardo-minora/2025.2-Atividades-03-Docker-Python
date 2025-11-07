@@ -130,7 +130,7 @@ Crie um arquivo `styles.css` para estilizar os cards:
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     padding: 20px;
     line-height: 1.6;
